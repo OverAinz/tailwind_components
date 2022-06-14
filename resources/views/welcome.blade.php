@@ -15,7 +15,10 @@
     <body class="">
         <h1>This is my branch to make test of merges...</h1>
 
+        <x-buttons.float-button/>
+
         <script src="{{ mix('js/app.js') }}"></script>
+        <script src="https://unpkg.com/flowbite@1.4.7/dist/flowbite.js"></script>
         @livewireScripts
     </body>
 </html>
