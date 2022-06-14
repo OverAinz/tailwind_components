@@ -13,7 +13,7 @@
         
     </head>
     <body class="">
-        <h1>This is the main branch</h1>
+        <h1>This is the main dev</h1>
 
         <script src="{{ mix('js/app.js') }}"></script>
         @livewireScripts
